@@ -1,1 +1,1 @@
-Egyszerű footerre példa
+simple footer
