@@ -1,0 +1,1 @@
+EGyszerő footerre példa
