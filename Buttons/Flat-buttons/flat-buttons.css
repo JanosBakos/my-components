@@ -1,0 +1,64 @@
+/* ==== GENERAL STYLES ==== */
+
+body {
+  background-color: #eee;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+section {
+  max-width: 470px;
+  padding: 10px;
+  margin: 20px auto;
+  color: #333;
+  background-color: #fff;
+  border: 1px solid #ccc;
+}
+
+h3 {
+  font-size: 24px;
+  font-family: Arial, sans-serif;
+  margin-bottom: 10px;
+}
+
+/* The base of every button */
+.btn {
+  display: inline-block;
+  text-decoration: none;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  font-size: 14px;
+  line-height: 1.42857143;
+  padding: 6px 12px;
+  margin-bottom: 10px;
+  border: 1px solid transparent;
+  white-space: nowrap;
+  vertical-align: middle;
+  color: black;
+}
+
+/* Additional styles for "Previous" */
+.btn-previous {
+  background-color: white;
+  border-color: black;
+}
+
+.btn-previous:hover {
+  background-color: black;
+  border-color: black;
+  color:white;
+}
+
+/* Additional styles for "Primary" */
+.btn-next {
+  background-color: white;
+  border-color: black;
+}
+
+.btn-next:hover {
+  background-color: black;
+  border-color: black;
+  color:white;
+}
