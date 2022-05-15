@@ -1,1 +1,1 @@
-EGyszerő footerre példa
+Egyszerű footerre példa
